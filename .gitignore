@@ -1,0 +1,51 @@
+# Gradle build directory
+/build/
+/.gradle/
+
+/out/
+/target/
+
+/bin/
+/libs/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE-specific files
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.classpath
+/.project
+/.settings/
+/.vscode/
+*.launch
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*~
+
+# JAR files (if they are generated)
+*.jar
+
+# Backup files
+*.bak
+*.swp
+
+# Other files you might want to ignore
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+
